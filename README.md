@@ -1,4 +1,4 @@
-# imporper-pca
+# improper-pca
 
 PCA is an unsupervised dimensionality reduction technique. PCA computes the eigenvalues of the covariance matrix (d*d matrix, d is the dimension, d is 784 here). These eigenvalues (784) are the variance of the data. All of the 784 dimensions have 100% variance. It is crucial to preserve most of the variance while reducing the dimension. 
  
